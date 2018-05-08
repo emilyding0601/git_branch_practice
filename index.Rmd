@@ -10,7 +10,7 @@ library("ggplot2")
 
 This is a highly informative pie chart:
 
-```{r}
+```{r echo = FALSE}
 # Hadley (and Joel)'s favourite pie chart
 df <- data.frame(
   variable = c("does not resemble", "resembles"),
@@ -21,4 +21,11 @@ ggplot(df, aes(x = "", y = value, fill = variable)) +
   scale_fill_manual(values = c("red", "yellow")) +
   coord_polar("y", start = 2*pi/3) +
   labs(title = "Pac Man")
+
+ggplot(df, aes(x = "", y = value, fill = variable)) +
+  geom_bar(width = 1, stat = "identity") +
+  scale_fill_manual(values = c("red", "yellow")) +
+  coord_polar("y", start = 2*pi/3) +
+  labs(title = "Double Pac Man!!")
+
 ```
