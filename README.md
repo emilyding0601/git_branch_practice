@@ -6,7 +6,8 @@ These are a few of my favorite things:
 
 - Raindrops on roses
 - Whiskers on cute animals
-- Bright copper kettles
+- Bright copper kettens
+- wild animals
 - Warm woolen mittens
 - Not editing directly on GitHub
 - add more food to eat!
