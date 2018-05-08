@@ -5,14 +5,11 @@
 These are a few of my favorite things:
 
 - Raindrops on roses
-<<<<<<< HEAD
 - Whiskers on cute puppies!!!!!!!!!!!!!!!!!!!!!!!! MORE!!
 - Bright copper kettles
-=======
 - Whiskers on cute puppies
 - Bright copper kettens
 - wild animals
->>>>>>> danger
 - Warm woolen mittens
 - Not editing directly on GitHub
 - add more food to eat!
